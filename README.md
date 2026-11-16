@@ -3,7 +3,19 @@
 ## Getting started
 
 ```bash
-npx skills add https://github.com/niyazgim/bash-mode
+npx skills@latest add https://github.com/niyazgim/bash-mode
+```
+
+### G.O.A.T. fundamental skills stack
+
+Run this commands chain to get 3 in my opinion greatest (excluding first) skills that gives fundamentials to your AI.
+
+```bash
+npx skills@latest add https://github.com/niyazgim/bash-mode 
+
+npx skills@latest add https://github.com/DietrichGebert/ponytail 
+
+npx skills@latest add https://github.com/multica-ai/andrej-karpathy-skills
 ```
 
 ## Feeding Context with Repomix (if you're not using AI agents)
